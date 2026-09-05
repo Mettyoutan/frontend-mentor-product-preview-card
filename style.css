@@ -139,7 +139,7 @@ main {
   /* Untuk desktop: pasti 600px */
   max-width: min(37.5rem, calc(100% - 2rem));
 
-  margin: 2rem;
+  margin: 2rem 0;
 
   background-color: var(--clr-white);
   border-radius: 0.625rem;
